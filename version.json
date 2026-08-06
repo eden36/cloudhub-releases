@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "android_url": "https://github.com/eden36/cloudhub-releases/releases/download/manual-master-48/cloudhub-android-manual-master-48.apk",
-  "android_sha256": "ba1c74d616500d24b1c4d9b99daf0170fc78c4f938d39aba7ded79d31e5001bb",
-  "windows_url": "https://github.com/eden36/cloudhub-releases/releases/download/manual-master-48/cloudhub-windows-manual-master-48-setup.exe",
-  "windows_sha256": "ca4f6d400101b9ec1a6d23d7e442b8600deb91d832a89ec24db84fb941ba9945",
+  "version": "1.0.10",
+  "android_url": "https://github.com/eden36/cloudhub-releases/releases/download/v1.0.10/cloudhub-android-v1.0.10.apk",
+  "android_sha256": "ab8b0149df2d424c18b39881cf7da22d6b5f8fb17fc18bbe9c2717c12791880d",
+  "windows_url": "https://github.com/eden36/cloudhub-releases/releases/download/v1.0.10/cloudhub-windows-v1.0.10-setup.exe",
+  "windows_sha256": "40c7fb8b6fafa579d3c70ba4173c8566622312af2bf3bfef8a39cd0e5e13d6b9",
   "changelog": "",
-  "released_at": "2026-08-05"
+  "released_at": "2026-08-06"
 }
