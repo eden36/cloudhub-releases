@@ -1,9 +1,9 @@
 {
-  "version": "1.0.20",
-  "android_url": "https://github.com/eden36/cloudhub-releases/releases/download/v1.0.20/cloudhub-android-v1.0.20.apk",
-  "android_sha256": "226728494b94849d77912c82ca80d7b5cc012a726b1a317c5196825ad2cbe182",
-  "windows_url": "https://github.com/eden36/cloudhub-releases/releases/download/v1.0.20/cloudhub-windows-v1.0.20-setup.exe",
-  "windows_sha256": "029515ec5729c8b3b1ac008fec8118b6f9c562d76e1872f8daaf47e5731f9b5c",
+  "version": "1.0.22",
+  "android_url": "https://github.com/eden36/cloudhub-releases/releases/download/v1.0.22/cloudhub-android-v1.0.22.apk",
+  "android_sha256": "eee96525f79e1895ac22945b3ffa807758b81e6d6c53371ff55b230c8b001d3a",
+  "windows_url": "https://github.com/eden36/cloudhub-releases/releases/download/v1.0.22/cloudhub-windows-v1.0.22-setup.exe",
+  "windows_sha256": "f22c4434f0b53395422597023225a0a7ca98dbcdc38afd21bec71f4354269233",
   "changelog": "",
-  "released_at": "2026-10-13"
+  "released_at": "2026-10-15"
 }
